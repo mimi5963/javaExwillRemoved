@@ -8,6 +8,12 @@ public class Test {
 		System.out.println("반갑습니다.");
 		System.out.println("예");
 
+
+
+
+
+		//이건 여기서 추가 
+
 	}
 	
 }
